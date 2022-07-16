@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipe
+Learn commit and git
