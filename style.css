@@ -1,8 +1,16 @@
 * {
     text-align: center;
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ul {
-    position: relative;
-    display: inline-block;
+   list-style-type: none;
+   padding: 0;
+
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
 }
